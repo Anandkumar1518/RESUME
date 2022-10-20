@@ -1,0 +1,21 @@
+body {
+    background-image: url('moon.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+   background-position: fixed;
+}
+h1{
+margin: auto;
+ width: 20%;
+ border: 2px solid rgba(19, 17, 145, 0.438);
+ border-style: double;
+ border-width: 5px;
+padding: 1px;
+}
+input{
+    font-style: italic;
+     list-style-position: inside;
+}
+h3{
+    
+}
